@@ -1,3 +1,5 @@
 Hello World!
 
 This is a happy text file.
+
+And this file will be happy forever!
