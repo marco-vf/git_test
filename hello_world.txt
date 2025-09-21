@@ -4,4 +4,4 @@ This is a happy text file.
 
 And this file will be happy forever!
 
-Because you can choose to be happe and so does the file.
+Because you can choose to be happy and so does the file.
